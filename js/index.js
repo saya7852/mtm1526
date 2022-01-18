@@ -7,9 +7,9 @@ let c;
 
 let output = ""; // define output with an empty value
 // add each value below to 'output'
-output += 'let a = 3\n';
-output += 'let b = 5\n';
-output += 'let c = undefined\n';
+output += 'let a = 3;\n';
+output += 'let b = 5;\n';
+output += 'let c;\n';
 output += '-----------------\n';
 output += 'a + b = ' + (a + b) + '\n';
 output += 'a - b = ' + (a - b) + '\n';
