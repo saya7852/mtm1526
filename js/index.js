@@ -1,3 +1,7 @@
+// This is MTM1526 - A01 Printing Output 
+// Written by Saya(Masayo) Williams
+// January 18, 2022
+
 // ****** TASK 1 ******
 
 // alert( "description of alerted_value: " + alerted_value );
