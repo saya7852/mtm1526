@@ -1,6 +1,8 @@
 // This is MTM1526 - A01 Printing Output 
 // Written by Saya(Masayo) Williams
-// January 18, 2022// ****** TASK 1 ******
+// January 18, 2022
+
+// ****** TASK 1 ******
 
 // alert( "description of alerted_value: " + alerted_value );
 let a = 3;
@@ -31,6 +33,7 @@ output += '(!a && !c): ' + (!a && !c) + '\n';
 output += '(!a || !c): ' + (!a || !c) + '\n';
 
 alert(output); // alert with values of 'output'
+
 
 // ****** TASK 2 ******
 
