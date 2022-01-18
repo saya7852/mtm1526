@@ -16,17 +16,17 @@ output += 'a - b = ' + (a - b) + '\n';
 output += 'a * b = ' + (a * b) + '\n';
 output += 'a / b = ' + (a / b) + '\n';
 output += 'a % b = ' + (a % b) + '\n';
-output += 'a += b = ' + (a += b) + '\n';
-output += 'a -= b = ' + (a -= b) + '\n';
-output += 'a *= b = ' + (a *= b) + '\n';
-output += 'a /= b = ' + (a /= b) + '\n';
-output += 'a %= b = ' + (a %= b) + '\n';
-output += 'a == b = ' + (a == b) + '\n';
-output += 'a != b = ' + (a != b) + '\n';
-output += 'a > b = ' + (a > b) + '\n';
-output += 'a < b = ' + (a < b) + '\n';
-output += '!a && !c = ' + (!a && !c) + '\n';
-output += '!a || !c = ' + (!a || !c) + '\n';
+output += '(a += b): ' + (a += b) + '\n';
+output += '(a -= b): ' + (a -= b) + '\n';
+output += '(a *= b): ' + (a *= b) + '\n';
+output += '(a /= b): ' + (a /= b) + '\n';
+output += '(a %= b): ' + (a %= b) + '\n';
+output += '(a == b): ' + (a == b) + '\n';
+output += '(a != b): ' + (a != b) + '\n';
+output += '(a > b): ' + (a > b) + '\n';
+output += '(a < b): ' + (a < b) + '\n';
+output += '(!a && !c): ' + (!a && !c) + '\n';
+output += '(!a || !c): ' + (!a || !c) + '\n';
 
 alert(output); // alert with values of 'output'
 
